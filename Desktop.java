@@ -1,8 +1,4 @@
-/*
-Arhaan Wazid
-101256222
-Assignment 4 Comp 1406
- */
+
 //Class representing a single desktop computer
 public class Desktop extends Computer {
     private String towerProfile;
