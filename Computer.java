@@ -1,8 +1,4 @@
-/*
-Arhaan Wazid
-101256222
-Assignment 4 Comp 1406
- */
+
 //Abstract class capturing shared state between Desktop and Laptop
 public abstract class Computer extends Product {
     private double cpuSpeed;
