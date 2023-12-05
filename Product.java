@@ -1,8 +1,4 @@
-/*
-Arhaan Wazid
-101256222
-Assignment 4 Comp 1406
- */
+
 //Base class for all products the store will sell
 public abstract class Product {
     private double price;
