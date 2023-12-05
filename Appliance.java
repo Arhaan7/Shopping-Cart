@@ -1,8 +1,4 @@
-/*
-Arhaan Wazid
-101256222
-Assignment 4 Comp 1406
- */
+
 //Abstract class capturing shared state between Fridge and ToasterOven
 public abstract class Appliance extends Product {
     private int wattage;
