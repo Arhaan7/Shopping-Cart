@@ -1,8 +1,4 @@
-/*
-Arhaan Wazid
-101256222
-Assignment 4 Comp 1406
- */
+
 //Class representing a single type of Fridge
 public class Fridge extends Appliance {
     private boolean hasFreezer;
